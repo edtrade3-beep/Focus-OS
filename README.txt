@@ -1,1 +1,1 @@
-Personal Focus OS PWA. Upload to GitHub/Vercel, then Add to Home Screen.
+Vercel-ready. Upload these files directly to repo root, not inside a folder.
