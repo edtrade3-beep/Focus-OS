@@ -1,0 +1,1 @@
+Personal Focus OS PWA. Upload to GitHub/Vercel, then Add to Home Screen.
